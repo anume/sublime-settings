@@ -1,0 +1,38 @@
+{
+	"auto_complete": false,
+	"auto_match_enabled": false,
+	"caret_style": "phase",
+	"color_scheme": "Packages/cde/cde.tmTheme",
+	"detect_slow_plugins": false,
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"fade_fold_buttons": false,
+	"font_face smiling e": "monofur",
+	"font_face ugly hash": "SourceCodePro-extralight",
+	"font_face co": "consolas",
+	"font_face dsm": "DejaVu Sans Mono",
+	"font_face in": "inconsolata",
+	"font_face scpr": "SourceCodePro-Regular",
+	"font_face scpl": "SourceCodePro-Light",
+	"font_face sui": "segoe ui",
+	"font_face": "lucida console",
+	"font_options2":
+	[
+		"italic"
+	],
+	"font_size": 11,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Perforce",
+		"Python Auto-Complete.hide",
+		"Vintage"
+	],
+	"indent_subsequent_lines": true,
+	"last": "dummy",
+	"save_on_focus_lost": true,
+	"tab_completion": false,
+	"theme2": "Soda Dark.sublime-theme",
+	"update_check": false,
+	"wide_caret": true,
+	"word_wrap": "true"
+}
